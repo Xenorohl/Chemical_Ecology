@@ -667,6 +667,7 @@ ggplot(Top15, aes(x = reorder(Compound, Mean), y = Mean)) +
 
 
 
+asdf
 ## 
 
 # Heatmap des données normalisées
